@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_gAJKgOZAEemP5shpoGE8XQ">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_j9P5QOZAEemP5shpoGE8XQ" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_j9P5QeZAEemP5shpoGE8XQ" elementId="project-ex-1003-tree-Pavlik.partdescriptor.simpleasttreeview" label="Simple AST Tree Pavlik" iconURI="platform:/plugin/project-ex-1003-tree-Pavlik/icons/sample.png" category="Java" contributionURI="bundleclass://project-ex-1003-tree-Pavlik/view.Viewer"/>
+  </fragments>
+</fragment:ModelFragments>
